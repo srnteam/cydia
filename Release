@@ -1,0 +1,8 @@
+Origin: SRNTeam
+Label: SRNTeam Official Repo
+Suite: stable
+Version: 1.0
+Codename: srnteamofficialrepo
+Architectures: iphoneos-arm
+Components: main
+Description: cool themes and tweaks

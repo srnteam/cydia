@@ -1,0 +1,11 @@
+Package: com.srnteam.Yosemite1010
+Name: Classics - Yosemite 10.10
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Transform your iPod or iPhone into Mac OS Yosemite!
+Homepage: http://srnteam.github.io/repo
+Maintainer: SirensOfNC
+Author: SirensOfNC
+Section: Themes
+Conflicts:
+Depends: winterboard
